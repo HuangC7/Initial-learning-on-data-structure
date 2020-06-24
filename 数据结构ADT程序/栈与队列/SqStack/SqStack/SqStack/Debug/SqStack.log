@@ -1,0 +1,5 @@
+﻿  sqstack.cpp
+  sqstackmain.cpp
+e:\编写资料\数据结构adt程序\sqstack\sqstack\sqstack\sqstackmain.cpp(5): warning C4101: “st”: 未引用的局部变量
+  正在生成代码...
+  SqStack.vcxproj -> E:\编写资料\数据结构ADT程序\SqStack\SqStack\Debug\SqStack.exe

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558144082 source:e:\编写资料\算法笔记 编写资料\简单计算器\main.cpp
+	<iostream>
+	<cstdio>
+	<string>
+	<stack>
+	<queue>
+	<map>
+

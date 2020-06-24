@@ -1,0 +1,6 @@
+﻿  dlinklist.cpp
+e:\编写资料\数据结构adt程序\dlinklist\dlinklist\dlinklist\dlinklist.h(12): warning C4091: “typedef ”: 没有声明变量时忽略“DLNode”的左侧
+  dlinklistmain.cpp
+e:\编写资料\数据结构adt程序\dlinklist\dlinklist\dlinklist\dlinklist.h(12): warning C4091: “typedef ”: 没有声明变量时忽略“DLNode”的左侧
+  正在生成代码...
+  DLinkList.vcxproj -> E:\编写资料\数据结构ADT程序\DLinklist\DLinkList\Debug\DLinkList.exe

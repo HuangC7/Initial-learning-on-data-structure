@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1560044813 source:e:\编写资料\算法笔记 编写资料\bfs遍历_forwards_on_weibo\main.cpp
+	<cstdio>
+	<cstring>
+	<vector>
+	<queue>
+
